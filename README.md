@@ -1,0 +1,1 @@
+# Strong Template for site by myself
