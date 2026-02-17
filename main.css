@@ -17,6 +17,13 @@ body{
     color: white;
     font-weight: bold;
     font-family: 'Inter', sans-serif;
+
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    border-bottom: 1px solid white;
+    
 }
 
 .logo{
